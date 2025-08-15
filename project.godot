@@ -1,5 +1,5 @@
 ; Engine: Godot 4.x
-config_version=5
+config_version=4
 
 [application]
 config/name="ChopChopNight"
